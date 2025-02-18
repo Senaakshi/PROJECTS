@@ -1,0 +1,201 @@
+{
+"@context": "https://w3id.org/ro/crate/1.1/context",
+"@graph": [
+{
+"@type": "CreativeWork",
+"@id": "ro-crate-metadata.json",
+"conformsTo": { "@id": "https://w3id.org/ro/crate/1.1" },
+"about": { "@id": "https://catalogue.ceh.ac.uk/id/d7b0dc22-053d-4a91-8e90-2f8b2ab794e4" }
+},
+{
+"@type":"Dataset",
+"name":"High resolution climate data, Sirsi, Western Ghats, India, 2021-2022",
+"@id": "https://catalogue.ceh.ac.uk/id/d7b0dc22-053d-4a91-8e90-2f8b2ab794e4",
+"hasPart": [
+{"@id": "#partclimate_sirsi_westernghats.csv"} ],
+"identifier": {
+"@type":"PropertyValue",
+"propertyID": "https://registry.identifiers.org/registry/doi",
+"value": "doi:10.5285/d7b0dc22-053d-4a91-8e90-2f8b2ab794e4",
+"url": "https://doi.org/10.5285/d7b0dc22-053d-4a91-8e90-2f8b2ab794e4"
+},
+"url": "https://doi.org/10.5285/d7b0dc22-053d-4a91-8e90-2f8b2ab794e4",
+"creditText":"Gloor, E., Barua, D., Galbraith, D.R., Hegde, B., Sunny, R., Tiwari, R. (2023). High resolution climate data, Sirsi, Western Ghats, India, 2021-2022. NERC EDS Environmental Information Data Centre. (Dataset). https://doi.org/10.5285/d7b0dc22-053d-4a91-8e90-2f8b2ab794e4",
+"description":"The data comprise high resolution climate measurements including temperature, precipitation, relative humidity, wind gust speed, wind direction and dew point measured in an open space in proximity to a forest fragment close to Sirsi, Western Ghats, India in 2021 and 2022. The data provide background information used to determine the safety margins of Indian tropical forests to elevated temperatures and dry conditions. Please see related data for information on leaf temperature, soil moisture, and growth, hydraulic, thermal and photosynthetic traits for a representative set of plant species.",
+"isAccessibleForFree": true,
+"datePublished":"2023-04-03",
+"keywords": [
+"Tree safety margins to climate extremes"
+,
+"Tree traits"
+,
+{"@type": "DefinedTerm","@id": "http://www.eionet.europa.eu/gemet/concept/5195","name": "meteorological parameter","inDefinedTermSet": "https://www.eionet.europa.eu/gemet/" }
+,
+{"@type": "DefinedTerm","@id": "http://www.eionet.europa.eu/gemet/concept/637","name": "atmospheric precipitation","inDefinedTermSet": "https://www.eionet.europa.eu/gemet/" }
+,
+{"@type": "DefinedTerm","@id": "http://www.eionet.europa.eu/gemet/concept/8664","name": "tree","inDefinedTermSet": "https://www.eionet.europa.eu/gemet/" }
+,
+{"@type": "DefinedTerm","@id": "http://www.eionet.europa.eu/gemet/concept/8687","name": "tropical forest","inDefinedTermSet": "https://www.eionet.europa.eu/gemet/" }
+],
+"author": [ {"@id": "https://orcid.org/0000-0002-9384-6341"},
+{"@id": "https://orcid.org/0000-0002-8761-0084"},
+{"@id": "https://orcid.org/0000-0002-5555-4823"},
+{"@id": "#author3"},
+{"@id": "https://orcid.org/0000-0002-8723-607X"},
+{"@id": "https://orcid.org/0000-0002-2191-769X"}
+],
+"contactPoint": [ {"@id": "#contact0"}
+],
+"temporalCoverage":[
+"2021-01-01/2022-12-31" ],
+"spatialCoverage": [ {"@id": "#bbox0"}],
+"funder": [ {"@id": "#fund0"}],
+"license": {"@id": "#oglLicence"},
+"distribution": [ {"@id": "#distribution0"}],
+"publisher":{"@id":"https://ror.org/04xw4m193"},
+"provider" : {"@id":"https://ror.org/04xw4m193"},
+"includedInDataCatalog":{ "@id": "#eidc-dataCatalogue"}
+},
+{
+"@id": "#eidc-dataCatalogue",
+"@type":"DataCatalog",
+"name":"Environmental Information Data Centre",
+"alternateName":"EIDC",
+"url":"https://catalogue.ceh.ac.uk/eidc/documents"
+},
+{
+"@id": "https://ror.org/04xw4m193",
+"@type":"Organization",
+"name":"NERC EDS Environmental Information Data Centre",
+"email": "info@eidc.ac.uk"
+}
+,{
+"@id": "#oglLicence",
+"@type": "CreativeWork",
+"name": "Open Government Licence v3",
+"alternateName":"OGL-UK-3.0",
+"license": "https://spdx.org/licenses/OGL-UK-3.0.html"
+}
+, {
+"@id": "#bbox0",
+"@type":"Place",
+"geo":{
+"@type":"GeoShape",
+"box":"74.823 14.6, 74.844 14.63"
+}
+}
+, {
+"@id": "https://orcid.org/0000-0002-9384-6341",
+"@type": "Person",
+"name": "Gloor, E."
+,"email": "e.gloor@leeds.ac.uk"
+,"identifier": {
+"@type":"PropertyValue",
+"propertyID": "orcid",
+"value": "https://orcid.org/0000-0002-9384-6341"
+}
+,"affiliation":{
+"@type":"Organization",
+"name":"University of Leeds"
+}
+},
+{
+"@id": "https://orcid.org/0000-0002-8761-0084",
+"@type": "Person",
+"name": "Barua, D."
+,"email": "dbarua@iiserpune.ac.in"
+,"identifier": {
+"@type":"PropertyValue",
+"propertyID": "orcid",
+"value": "https://orcid.org/0000-0002-8761-0084"
+}
+,"affiliation":{
+"@type":"Organization",
+"name":"IISER, Prune"
+}
+},
+{
+"@id": "https://orcid.org/0000-0002-5555-4823",
+"@type": "Person",
+"name": "Galbraith, D.R."
+,"email": "D.R.Galbraith@leeds.ac.uk"
+,"identifier": {
+"@type":"PropertyValue",
+"propertyID": "orcid",
+"value": "https://orcid.org/0000-0002-5555-4823"
+}
+,"affiliation":{
+"@type":"Organization",
+"name":"University of Leeds"
+}
+},
+{
+"@id": "#author3",
+"@type": "Person",
+"name": "Hegde, B."
+,"email": "balachandra.hegde@gmail.com"
+,"affiliation":{
+"@type":"Organization",
+"name":"Unaffiliated"
+}
+},
+{
+"@id": "https://orcid.org/0000-0002-8723-607X",
+"@type": "Person",
+"name": "Sunny, R."
+,"email": "ronsunny1512@gmail.com"
+,"identifier": {
+"@type":"PropertyValue",
+"propertyID": "orcid",
+"value": "https://orcid.org/0000-0002-8723-607X"
+}
+,"affiliation":{
+"@type":"Organization",
+"name":"St. Joseph's college, Calicut"
+}
+},
+{
+"@id": "https://orcid.org/0000-0002-2191-769X",
+"@type": "Person",
+"name": "Tiwari, R."
+,"email": "shimogarakesh@gmail.com"
+,"identifier": {
+"@type":"PropertyValue",
+"propertyID": "orcid",
+"value": "https://orcid.org/0000-0002-2191-769X"
+}
+,"affiliation":{
+"@type":"Organization",
+"name":"University of Leeds"
+}
+}
+, {
+"@id": "#contact0",
+"@type": "Person",
+"name": "Emanuel Gloor"
+,"email": "e.gloor@leeds.ac.uk"
+,"affiliation":{
+"@type":"Organization",
+"name":"University of Leeds"
+}
+}
+, {
+"@id": "#fund0",
+"@type":"Organization"
+,"name":"Natural Environment Research Council"
+}
+, {
+"@id": "#partclimate_sirsi_westernghats.csv","name": "climate_sirsi_westernghats.csv","@type": "File"
+,"encodingFormat": "text/csv"
+,"lastModified": "2023-04-03T12:51:37"
+,"bytes": 2697757
+,"contentUrl": "data/climate_sirsi_westernghats.csv"
+}
+, {
+"@id": "#distribution0",
+"@type":"DataDownload",
+"contentUrl":"https://data-package.ceh.ac.uk/data/d7b0dc22-053d-4a91-8e90-2f8b2ab794e4"
+,"encodingFormat":"application/zip"
+}
+]
+}
