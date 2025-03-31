@@ -1,0 +1,12 @@
+# Meta Data Anaysis
+Source of data used: 
+My own brower history
+Filename: history_cleaned.csv
+
+Collection/generation method by using preparation_BrowesrHistory.ipynb
+
+## Feature  of the data
+Variable name   	Units/Format	Explanation
+Date	            DD/MM/YYYY	    Date of sampling
+Time	            HH:MIN	        Time of sampling
+Domain	            -	            Domain of the site
