@@ -1,0 +1,21 @@
+From,To,Distance (km)
+"Harrisburg, PA","New York City, NY",274.31
+"New York City, NY","Portland, ME",505.24
+"Portland, ME","Boston, MA",172.35
+"Boston, MA","Baltimore, MD",643.36
+"Baltimore, MD","Washington, DC",61.84
+"Washington, DC","Cincinnati, OH",808.0
+"Cincinnati, OH","Nashville, TN",439.5
+"Nashville, TN","Miami, FL",1465.21
+"Miami, FL","Orlando, FL",382.37
+"Orlando, FL","Houston, TX",1553.12
+"Houston, TX","Las Vegas, NV",2343.65
+"Las Vegas, NV","Portland, OR",1561.96
+"Portland, OR","Seattle, WA",279.67
+"Seattle, WA","Boise, ID",795.56
+"Boise, ID","Salt Lake City, UT",546.22
+"Salt Lake City, UT","Denver, CO",835.68
+"Denver, CO","Chicago, IL",1616.75
+"Chicago, IL","Detroit, MI",456.21
+"Detroit, MI","Pittsburgh, PA",461.61
+"Pittsburgh, PA","Harrisburg, PA",327.28
