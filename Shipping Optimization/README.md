@@ -15,10 +15,11 @@ To determine the most efficient delivery routes across multiple US cities, minim
 
 ## Technologies Used
 
-- Python
+- Python (use version 3.10)
 - Apache Spark
 - Google Maps Distance Matrix API
 - Pandas
+- Java version 11
 - ThreadPoolExecutor (concurrent.futures)
 
 ## File Descriptions
