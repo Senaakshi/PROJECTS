@@ -1,0 +1,401 @@
+from,to,distance_km,distance_miles
+"Harrisburg, PA","Harrisburg, PA",0.0,0.0
+"Harrisburg, PA","New York City, NY",274.31,170.45
+"Harrisburg, PA","Washington, DC",192.59,119.67
+"Harrisburg, PA","Detroit, MI",777.62,483.19
+"Harrisburg, PA","Cincinnati, OH",758.3,471.19
+"Harrisburg, PA","Nashville, TN",1158.41,719.8
+"Harrisburg, PA","Baltimore, MD",127.79,79.41
+"Harrisburg, PA","Orlando, FL",1541.4,957.78
+"Harrisburg, PA","Pittsburgh, PA",327.0,203.19
+"Harrisburg, PA","Denver, CO",2617.31,1626.32
+"Harrisburg, PA","Salt Lake City, UT",3279.73,2037.93
+"Harrisburg, PA","Houston, TX",2353.5,1462.4
+"Nashville, TN","Nashville, TN",0.0,0.0
+"Harrisburg, PA","Miami, FL",1879.76,1168.03
+"Harrisburg, PA","Boston, MA",615.55,382.49
+"Harrisburg, PA","Chicago, IL",1058.88,657.96
+"Harrisburg, PA","Seattle, WA",4376.93,2719.7
+"Harrisburg, PA","Portland, ME",775.91,482.13
+"Nashville, TN","Cincinnati, OH",438.47,272.45
+"Nashville, TN","Harrisburg, PA",1158.36,719.77
+"Nashville, TN","Denver, CO",1863.6,1157.99
+"Harrisburg, PA","Las Vegas, NV",3820.06,2373.68
+"Nashville, TN","New York City, NY",1425.51,885.77
+"Nashville, TN","Salt Lake City, UT",2622.28,1629.41
+"Nashville, TN","Orlando, FL",1104.94,686.58
+"Nashville, TN","Washington, DC",1071.52,665.81
+"Nashville, TN","Detroit, MI",860.83,534.89
+"Harrisburg, PA","Portland, OR",4444.68,2761.79
+"Nashville, TN","Houston, TX",1253.44,778.85
+"Harrisburg, PA","Boise, ID",3757.97,2335.1
+"Nashville, TN","Miami, FL",1465.21,910.44
+"Nashville, TN","Pittsburgh, PA",901.55,560.2
+"Nashville, TN","Chicago, IL",758.53,471.33
+"Salt Lake City, UT","Salt Lake City, UT",0.0,0.0
+"Nashville, TN","Baltimore, MD",1131.93,703.35
+"Nashville, TN","Seattle, WA",3847.58,2390.77
+"Nashville, TN","Las Vegas, NV",2885.15,1792.75
+"Nashville, TN","Boise, ID",3100.53,1926.58
+"Nashville, TN","Boston, MA",1766.75,1097.81
+"Salt Lake City, UT","Denver, CO",835.68,519.27
+"Nashville, TN","Portland, ME",1927.11,1197.45
+"Salt Lake City, UT","Nashville, TN",2624.18,1630.59
+"Salt Lake City, UT","Seattle, WA",1351.54,839.81
+"Salt Lake City, UT","Harrisburg, PA",3285.34,2041.41
+"Nashville, TN","Portland, OR",3787.23,2353.28
+"Salt Lake City, UT","New York City, NY",3497.84,2173.45
+"Salt Lake City, UT","Las Vegas, NV",677.46,420.95
+"Salt Lake City, UT","Cincinnati, OH",2628.93,1633.54
+"Salt Lake City, UT","Washington, DC",3347.0,2079.73
+"Salt Lake City, UT","Houston, TX",2377.26,1477.16
+"Salt Lake City, UT","Detroit, MI",2679.86,1665.19
+"Salt Lake City, UT","Orlando, FL",3723.83,2313.88
+"Salt Lake City, UT","Boise, ID",546.07,339.31
+"Salt Lake City, UT","Portland, OR",1232.77,766.01
+"Denver, CO","Denver, CO",0.0,0.0
+"Salt Lake City, UT","Pittsburgh, PA",2968.22,1844.36
+"Salt Lake City, UT","Baltimore, MD",3357.27,2086.11
+"Salt Lake City, UT","Chicago, IL",2251.61,1399.09
+"Denver, CO","Salt Lake City, UT",836.11,519.53
+"Salt Lake City, UT","Miami, FL",4084.1,2537.74
+"Denver, CO","Nashville, TN",1865.24,1159.01
+"Denver, CO","Harrisburg, PA",2621.61,1628.99
+"Salt Lake City, UT","Portland, ME",3967.68,2465.4
+"Denver, CO","Detroit, MI",2045.0,1270.71
+"Salt Lake City, UT","Boston, MA",3807.32,2365.76
+"Denver, CO","Cincinnati, OH",1920.85,1193.56
+"Denver, CO","New York City, NY",2862.98,1778.97
+"Denver, CO","Washington, DC",2669.16,1658.54
+"Denver, CO","Houston, TX",1659.82,1031.37
+"Denver, CO","Seattle, WA",2119.83,1317.2
+"Denver, CO","Orlando, FL",2964.89,1842.3
+"Denver, CO","Miami, FL",3325.16,2066.16
+"Denver, CO","Las Vegas, NV",1205.2,748.88
+"Denver, CO","Boise, ID",1314.35,816.7
+"Denver, CO","Chicago, IL",1616.75,1004.6
+"New York City, NY","New York City, NY",0.0,0.0
+"Denver, CO","Pittsburgh, PA",2333.36,1449.88
+"Denver, CO","Portland, OR",2001.06,1243.4
+"New York City, NY","Harrisburg, PA",272.33,169.22
+"Denver, CO","Baltimore, MD",2679.43,1664.92
+"New York City, NY","Cincinnati, OH",1025.37,637.13
+"Denver, CO","Boston, MA",3172.47,1971.28
+"New York City, NY","Nashville, TN",1422.74,884.05
+"New York City, NY","Washington, DC",363.64,225.96
+"New York City, NY","Detroit, MI",992.01,616.4
+"New York City, NY","Orlando, FL",1727.7,1073.55
+"New York City, NY","Denver, CO",2860.66,1777.53
+"New York City, NY","Baltimore, MD",301.49,187.33
+"Denver, CO","Portland, ME",3332.83,2070.92
+"New York City, NY","Pittsburgh, PA",594.06,369.13
+"New York City, NY","Salt Lake City, UT",3494.11,2171.14
+"New York City, NY","Boston, MA",344.88,214.3
+"New York City, NY","Seattle, WA",4591.32,2852.91
+"New York City, NY","Chicago, IL",1273.26,791.17
+"New York City, NY","Miami, FL",2066.07,1283.79
+"Cincinnati, OH","Nashville, TN",439.5,273.09
+"Cincinnati, OH","Cincinnati, OH",0.0,0.0
+"Cincinnati, OH","Harrisburg, PA",758.52,471.33
+"New York City, NY","Portland, ME",505.24,313.94
+"New York City, NY","Houston, TX",2617.83,1626.64
+"New York City, NY","Boise, ID",3972.36,2468.31
+"Cincinnati, OH","New York City, NY",1028.5,639.08
+"New York City, NY","Las Vegas, NV",4060.28,2522.94
+"Cincinnati, OH","Detroit, MI",424.29,263.64
+"Cincinnati, OH","Salt Lake City, UT",2653.39,1648.74
+"Cincinnati, OH","Orlando, FL",1446.81,899.0
+"Cincinnati, OH","Denver, CO",1918.93,1192.37
+"Cincinnati, OH","Washington, DC",806.07,500.87
+"New York City, NY","Portland, OR",4659.06,2895.0
+"Cincinnati, OH","Seattle, WA",3745.86,2327.57
+"Cincinnati, OH","Baltimore, MD",816.35,507.25
+"Cincinnati, OH","Chicago, IL",474.48,294.83
+"Cincinnati, OH","Houston, TX",1688.22,1049.01
+"Cincinnati, OH","Pittsburgh, PA",463.59,288.06
+"Cincinnati, OH","Miami, FL",1807.08,1122.87
+"Cincinnati, OH","Boston, MA",1418.79,881.59
+"Seattle, WA","Salt Lake City, UT",1335.89,830.08
+"Seattle, WA","Seattle, WA",0.0,0.0
+"Cincinnati, OH","Las Vegas, NV",3121.69,1939.73
+"Seattle, WA","Denver, CO",2100.13,1304.96
+"Cincinnati, OH","Boise, ID",3131.64,1945.91
+"Cincinnati, OH","Portland, ME",1579.15,981.24
+"Seattle, WA","Nashville, TN",3846.03,2389.81
+"Cincinnati, OH","Portland, OR",3818.34,2372.61
+"Seattle, WA","Harrisburg, PA",4377.87,2720.28
+"Seattle, WA","Cincinnati, OH",3739.86,2323.84
+"Seattle, WA","New York City, NY",4590.36,2852.32
+"Seattle, WA","Las Vegas, NV",1793.21,1114.25
+"Seattle, WA","Orlando, FL",4945.68,3073.1
+"Seattle, WA","Detroit, MI",3774.37,2345.29
+"Seattle, WA","Houston, TX",3758.09,2335.17
+"Seattle, WA","Washington, DC",4439.53,2758.6
+"Seattle, WA","Portland, OR",280.2,174.11
+"Seattle, WA","Boise, ID",795.56,494.34
+"Seattle, WA","Miami, FL",5305.95,3296.96
+"Seattle, WA","Pittsburgh, PA",4060.75,2523.23
+"Seattle, WA","Baltimore, MD",4449.8,2764.98
+"Seattle, WA","Chicago, IL",3321.78,2064.06
+"Orlando, FL","Orlando, FL",0.0,0.0
+"Orlando, FL","Nashville, TN",1105.76,687.09
+"Orlando, FL","Harrisburg, PA",1540.25,957.07
+"Orlando, FL","Cincinnati, OH",1445.55,898.22
+"Orlando, FL","Denver, CO",2963.08,1841.17
+"Orlando, FL","New York City, NY",1725.37,1072.09
+"Orlando, FL","Washington, DC",1361.39,845.93
+"Orlando, FL","Houston, TX",1549.2,962.63
+"Orlando, FL","Detroit, MI",1867.91,1160.66
+"Orlando, FL","Salt Lake City, UT",3721.77,2312.6
+"Orlando, FL","Miami, FL",377.94,234.84
+"Seattle, WA","Boston, MA",4899.85,3044.63
+"Seattle, WA","Portland, ME",5060.22,3144.27
+"Orlando, FL","Baltimore, MD",1425.44,885.73
+"Orlando, FL","Seattle, WA",4947.07,3073.96
+"Orlando, FL","Pittsburgh, PA",1559.21,968.85
+"Washington, DC","Harrisburg, PA",188.65,117.22
+"Orlando, FL","Chicago, IL",1858.02,1154.52
+"Orlando, FL","Las Vegas, NV",3707.06,2303.46
+"Orlando, FL","Boston, MA",2066.51,1284.07
+"Washington, DC","New York City, NY",367.3,228.23
+"Washington, DC","Washington, DC",0.0,0.0
+"Washington, DC","Nashville, TN",1071.25,665.64
+"Orlando, FL","Portland, ME",2226.87,1383.71
+"Orlando, FL","Portland, OR",4886.72,3036.46
+"Washington, DC","Salt Lake City, UT",3341.21,2076.13
+"Washington, DC","Cincinnati, OH",808.0,502.07
+"Washington, DC","Baltimore, MD",67.38,41.87
+"Washington, DC","Detroit, MI",839.1,521.39
+"Orlando, FL","Boise, ID",4200.02,2609.77
+"Washington, DC","Orlando, FL",1362.44,846.58
+"Washington, DC","Denver, CO",2667.0,1657.2
+"Washington, DC","Pittsburgh, PA",388.48,241.39
+"Washington, DC","Miami, FL",1700.8,1056.83
+"Washington, DC","Chicago, IL",1120.36,696.16
+"Washington, DC","Houston, TX",2266.34,1408.24
+"Washington, DC","Boston, MA",708.44,440.2
+"Washington, DC","Portland, ME",868.8,539.85
+"Washington, DC","Seattle, WA",4438.41,2757.9
+"Detroit, MI","Cincinnati, OH",425.2,264.21
+"Detroit, MI","Harrisburg, PA",778.73,483.88
+"Washington, DC","Boise, ID",3819.45,2373.3
+"Detroit, MI","Detroit, MI",0.0,0.0
+"Detroit, MI","Denver, CO",2042.71,1269.28
+"Washington, DC","Las Vegas, NV",3869.76,2404.56
+"Detroit, MI","Nashville, TN",862.51,535.94
+"Detroit, MI","Salt Lake City, UT",2676.17,1662.89
+"Detroit, MI","Washington, DC",840.39,522.19
+"Washington, DC","Portland, OR",4506.16,2799.99
+"Detroit, MI","New York City, NY",991.23,615.92
+"Detroit, MI","Pittsburgh, PA",461.61,286.83
+"Detroit, MI","Baltimore, MD",850.66,528.58
+"Detroit, MI","Chicago, IL",456.79,283.83
+"Detroit, MI","Orlando, FL",1869.82,1161.85
+"Detroit, MI","Houston, TX",2111.24,1311.86
+"Detroit, MI","Seattle, WA",3774.84,2345.58
+"Detroit, MI","Miami, FL",2230.09,1385.72
+"Detroit, MI","Boston, MA",1135.68,705.68
+"Detroit, MI","Las Vegas, NV",3242.33,2014.69
+"Houston, TX","Nashville, TN",1253.44,778.85
+"Detroit, MI","Portland, ME",1296.05,805.32
+"Houston, TX","Denver, CO",1653.59,1027.49
+"Detroit, MI","Boise, ID",3154.41,1960.06
+"Houston, TX","Houston, TX",0.0,0.0
+"Houston, TX","Salt Lake City, UT",2376.64,1476.78
+"Houston, TX","Harrisburg, PA",2353.45,1462.37
+"Houston, TX","New York City, NY",2620.6,1628.37
+"Houston, TX","Cincinnati, OH",1686.25,1047.79
+"Houston, TX","Orlando, FL",1550.34,963.34
+"Detroit, MI","Portland, OR",3841.11,2386.76
+"Houston, TX","Detroit, MI",2093.93,1301.1
+"Houston, TX","Miami, FL",1910.61,1187.2
+"Houston, TX","Washington, DC",2266.61,1408.4
+"Houston, TX","Baltimore, MD",2327.03,1445.95
+"Houston, TX","Pittsburgh, PA",2149.31,1335.52
+"Houston, TX","Chicago, IL",1742.7,1082.86
+"Houston, TX","Seattle, WA",3768.59,2341.7
+"Houston, TX","Las Vegas, NV",2343.65,1456.28
+"Miami, FL","New York City, NY",2066.58,1284.11
+"Miami, FL","Nashville, TN",1469.43,913.06
+"Houston, TX","Portland, OR",3649.82,2267.89
+"Houston, TX","Boston, MA",2961.84,1840.4
+"Houston, TX","Boise, ID",2963.12,1841.2
+"Miami, FL","Cincinnati, OH",1809.22,1124.2
+"Miami, FL","Miami, FL",0.0,0.0
+"Houston, TX","Portland, ME",3122.2,1940.05
+"Miami, FL","Orlando, FL",380.35,236.34
+"Miami, FL","Harrisburg, PA",1881.47,1169.09
+"Miami, FL","Washington, DC",1702.61,1057.95
+"Miami, FL","Salt Lake City, UT",4085.44,2538.57
+"Miami, FL","Baltimore, MD",1766.66,1097.75
+"Miami, FL","Denver, CO",3326.76,2067.15
+"Miami, FL","Houston, TX",1912.87,1188.6
+"Miami, FL","Pittsburgh, PA",1900.42,1180.87
+"Baltimore, MD","Harrisburg, PA",127.67,79.33
+"Miami, FL","Detroit, MI",2231.58,1386.64
+"Miami, FL","Chicago, IL",2221.69,1380.49
+"Baltimore, MD","Nashville, TN",1131.33,702.98
+"Miami, FL","Seattle, WA",5310.74,3299.94
+"Baltimore, MD","New York City, NY",308.36,191.61
+"Miami, FL","Las Vegas, NV",4070.74,2529.44
+"Miami, FL","Portland, ME",2568.08,1595.73
+"Miami, FL","Boston, MA",2407.72,1496.09
+"Baltimore, MD","Cincinnati, OH",817.52,507.98
+"Miami, FL","Portland, OR",5250.39,3262.44
+"Baltimore, MD","Baltimore, MD",0.0,0.0
+"Baltimore, MD","Washington, DC",61.84,38.42
+"Baltimore, MD","Salt Lake City, UT",3350.72,2082.04
+"Baltimore, MD","Denver, CO",2676.52,1663.11
+"Baltimore, MD","Detroit, MI",848.62,527.31
+"Baltimore, MD","Pittsburgh, PA",397.99,247.3
+"Baltimore, MD","Orlando, FL",1425.9,886.01
+"Miami, FL","Boise, ID",4563.69,2835.74
+"Baltimore, MD","Houston, TX",2326.42,1445.57
+"Baltimore, MD","Miami, FL",1764.26,1096.26
+"Baltimore, MD","Chicago, IL",1129.87,702.07
+"Baltimore, MD","Boston, MA",649.5,403.58
+"Pittsburgh, PA","Harrisburg, PA",327.28,203.36
+"Baltimore, MD","Portland, ME",809.86,503.22
+"Pittsburgh, PA","Cincinnati, OH",464.65,288.72
+"Pittsburgh, PA","Nashville, TN",904.06,561.76
+"Pittsburgh, PA","New York City, NY",597.25,371.12
+"Baltimore, MD","Las Vegas, NV",3879.27,2410.47
+"Baltimore, MD","Seattle, WA",4447.93,2763.81
+"Baltimore, MD","Boise, ID",3828.97,2379.21
+"Pittsburgh, PA","Denver, CO",2331.25,1448.57
+"Pittsburgh, PA","Pittsburgh, PA",0.0,0.0
+"Pittsburgh, PA","Washington, DC",388.94,241.68
+"Baltimore, MD","Portland, OR",4515.67,2805.91
+"Pittsburgh, PA","Detroit, MI",462.6,287.44
+"Pittsburgh, PA","Salt Lake City, UT",2964.7,1842.18
+"Pittsburgh, PA","Baltimore, MD",399.22,248.06
+"Pittsburgh, PA","Orlando, FL",1561.05,969.99
+"Pittsburgh, PA","Chicago, IL",743.85,462.21
+"Pittsburgh, PA","Houston, TX",2152.78,1337.68
+"Pittsburgh, PA","Miami, FL",1899.41,1180.24
+"Pittsburgh, PA","Boston, MA",919.43,571.31
+"Pittsburgh, PA","Seattle, WA",4061.91,2523.95
+"Pittsburgh, PA","Portland, ME",1079.79,670.95
+"Las Vegas, NV","Salt Lake City, UT",676.83,420.56
+"Pittsburgh, PA","Boise, ID",3442.95,2139.35
+"Las Vegas, NV","Denver, CO",1204.88,748.68
+"Las Vegas, NV","Nashville, TN",2884.61,1792.42
+"Pittsburgh, PA","Las Vegas, NV",3530.87,2193.98
+"Las Vegas, NV","Seattle, WA",1810.33,1124.89
+"Pittsburgh, PA","Portland, OR",4129.65,2566.05
+"Las Vegas, NV","Harrisburg, PA",3820.17,2373.74
+"Las Vegas, NV","Las Vegas, NV",0.0,0.0
+"Las Vegas, NV","Cincinnati, OH",3119.41,1938.31
+"Las Vegas, NV","New York City, NY",4058.46,2521.81
+"Las Vegas, NV","Houston, TX",2343.22,1456.01
+"Las Vegas, NV","Boise, ID",1004.85,624.39
+"Las Vegas, NV","Orlando, FL",3712.2,2306.65
+"Las Vegas, NV","Washington, DC",3867.72,2403.29
+"Las Vegas, NV","Chicago, IL",2812.24,1747.44
+"Las Vegas, NV","Detroit, MI",3240.49,2013.54
+"Las Vegas, NV","Miami, FL",4072.47,2530.51
+"Las Vegas, NV","Portland, OR",1561.96,970.56
+"Las Vegas, NV","Pittsburgh, PA",3528.84,2192.72
+"Las Vegas, NV","Baltimore, MD",3877.99,2409.67
+"Chicago, IL","Nashville, TN",758.49,471.3
+"Chicago, IL","Harrisburg, PA",1059.71,658.47
+"Chicago, IL","Denver, CO",1612.19,1001.77
+"Chicago, IL","Cincinnati, OH",475.46,295.43
+"Chicago, IL","Salt Lake City, UT",2245.64,1395.38
+"Chicago, IL","New York City, NY",1272.2,790.51
+"Chicago, IL","Detroit, MI",456.21,283.48
+"Chicago, IL","Washington, DC",1121.37,696.79
+"Chicago, IL","Chicago, IL",0.0,0.0
+"Chicago, IL","Pittsburgh, PA",742.59,461.42
+"Las Vegas, NV","Portland, ME",4528.31,2813.76
+"Chicago, IL","Baltimore, MD",1131.64,703.17
+"Chicago, IL","Orlando, FL",1858.13,1154.59
+"Chicago, IL","Seattle, WA",3321.09,2063.63
+"Chicago, IL","Houston, TX",1743.45,1083.33
+"Chicago, IL","Miami, FL",2218.4,1378.45
+"Las Vegas, NV","Boston, MA",4367.95,2714.12
+"Chicago, IL","Las Vegas, NV",2811.81,1747.18
+"Boston, MA","Harrisburg, PA",626.77,389.46
+"Chicago, IL","Boston, MA",1581.69,982.82
+"Boston, MA","New York City, NY",345.11,214.44
+"Chicago, IL","Boise, ID",2723.89,1692.55
+"Chicago, IL","Portland, ME",1742.06,1082.46
+"Boston, MA","Nashville, TN",1777.18,1104.29
+"Chicago, IL","Portland, OR",3410.59,2119.24
+"Boston, MA","Cincinnati, OH",1418.77,881.58
+"Boston, MA","Washington, DC",705.51,438.38
+"Boston, MA","Detroit, MI",1135.65,705.66
+"Boston, MA","Orlando, FL",2069.58,1285.97
+"Boston, MA","Boston, MA",0.0,0.0
+"Boston, MA","Denver, CO",3168.63,1968.9
+"Boston, MA","Salt Lake City, UT",3802.08,2362.5
+"Boston, MA","Baltimore, MD",643.36,399.76
+"Boston, MA","Pittsburgh, PA",918.7,570.85
+"Boston, MA","Portland, ME",173.38,107.73
+"Boston, MA","Houston, TX",2972.27,1846.88
+"Boston, MA","Chicago, IL",1581.23,982.53
+"Boston, MA","Seattle, WA",4899.29,3044.28
+"Boston, MA","Miami, FL",2407.94,1496.22
+"Boise, ID","Salt Lake City, UT",546.22,339.41
+"Boise, ID","Denver, CO",1310.47,814.29
+"Boise, ID","Seattle, WA",811.27,504.1
+"Boise, ID","Nashville, TN",3098.98,1925.61
+"Boston, MA","Boise, ID",4280.33,2659.67
+"Boston, MA","Las Vegas, NV",4368.25,2714.3
+"Boise, ID","Cincinnati, OH",3103.72,1928.56
+"Boston, MA","Portland, OR",4967.03,3086.37
+"Boise, ID","Harrisburg, PA",3760.13,2336.44
+"Boise, ID","Orlando, FL",4198.62,2608.9
+"Boise, ID","Las Vegas, NV",1003.54,623.57
+"Boise, ID","Boise, ID",0.0,0.0
+"Boise, ID","Houston, TX",2968.42,1844.49
+"Boise, ID","New York City, NY",3972.63,2468.48
+"Boise, ID","Washington, DC",3821.79,2374.75
+"Boise, ID","Detroit, MI",3154.65,1960.21
+"Boise, ID","Baltimore, MD",3832.07,2381.13
+"Boise, ID","Pittsburgh, PA",3443.01,2139.39
+"Boise, ID","Chicago, IL",2726.4,1694.11
+"Boise, ID","Portland, OR",692.49,430.3
+"Boise, ID","Miami, FL",4558.89,2832.76
+"Portland, ME","Harrisburg, PA",786.35,488.61
+"Portland, ME","New York City, NY",504.69,313.6
+"Portland, ME","Washington, DC",865.08,537.54
+"Portland, ME","Nashville, TN",1936.75,1203.44
+"Boise, ID","Portland, ME",4442.48,2760.43
+"Portland, ME","Orlando, FL",2229.15,1385.13
+"Portland, ME","Denver, CO",3328.21,2068.05
+"Portland, ME","Detroit, MI",1295.23,804.82
+"Portland, ME","Salt Lake City, UT",3961.66,2461.66
+"Portland, ME","Seattle, WA",5058.86,3143.43
+"Boise, ID","Boston, MA",4282.12,2660.78
+"Portland, ME","Portland, ME",0.0,0.0
+"Portland, ME","Boston, MA",172.35,107.09
+"Portland, ME","Baltimore, MD",802.93,498.92
+"Portland, ME","Pittsburgh, PA",1078.28,670.01
+"Portland, ME","Houston, TX",3131.85,1946.04
+"Portland, ME","Chicago, IL",1740.81,1081.69
+"Portland, ME","Cincinnati, OH",1578.34,980.73
+"Portland, ME","Miami, FL",2567.51,1595.38
+"Portland, OR","Salt Lake City, UT",1233.15,766.24
+"Portland, OR","Seattle, WA",279.67,173.78
+"Portland, OR","Denver, CO",1997.39,1241.12
+"Portland, OR","Nashville, TN",3785.9,2352.45
+"Portland, ME","Portland, OR",5126.61,3185.52
+"Portland, ME","Las Vegas, NV",4527.82,2813.46
+"Portland, OR","Harrisburg, PA",4447.06,2763.27
+"Portland, OR","Cincinnati, OH",3790.64,2355.4
+"Portland, ME","Boise, ID",4439.9,2758.83
+"Portland, OR","New York City, NY",4659.55,2895.31
+"Portland, OR","Las Vegas, NV",1561.11,970.03
+"Portland, OR","Orlando, FL",4885.55,3035.74
+"Portland, OR","Detroit, MI",3845.25,2389.33
+"Portland, OR","Portland, OR",0.0,0.0
+"Portland, OR","Houston, TX",3655.35,2271.33
+"Portland, OR","Boise, ID",692.82,430.5
+"Portland, OR","Pittsburgh, PA",4129.93,2566.22
+"Portland, OR","Washington, DC",4508.72,2801.59
+"Portland, OR","Baltimore, MD",4518.99,2807.97
+"Portland, OR","Chicago, IL",3413.33,2120.94
+"Portland, OR","Miami, FL",5245.82,3259.6
+"Portland, OR","Boston, MA",4969.04,3087.62
+"Portland, OR","Portland, ME",5129.4,3187.26

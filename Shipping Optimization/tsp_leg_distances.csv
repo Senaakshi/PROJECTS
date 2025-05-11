@@ -1,0 +1,21 @@
+From,To,Distance_km,Distance_miles
+"Baltimore, MD","Washington, DC",61.84,38.43
+"Washington, DC","Cincinnati, OH",808.0,502.07
+"Cincinnati, OH","Nashville, TN",439.5,273.09
+"Nashville, TN","Miami, FL",1465.21,910.44
+"Miami, FL","Orlando, FL",380.35,236.34
+"Orlando, FL","Houston, TX",1549.2,962.63
+"Houston, TX","Las Vegas, NV",2343.65,1456.28
+"Las Vegas, NV","Portland, OR",1561.96,970.56
+"Portland, OR","Seattle, WA",279.67,173.78
+"Seattle, WA","Boise, ID",795.56,494.34
+"Boise, ID","Salt Lake City, UT",546.22,339.41
+"Salt Lake City, UT","Denver, CO",835.68,519.27
+"Denver, CO","Chicago, IL",1616.75,1004.6
+"Chicago, IL","Detroit, MI",456.21,283.48
+"Detroit, MI","Pittsburgh, PA",461.61,286.83
+"Pittsburgh, PA","Harrisburg, PA",327.28,203.36
+"Harrisburg, PA","Portland, ME",775.91,482.13
+"Portland, ME","Boston, MA",172.35,107.09
+"Boston, MA","New York City, NY",345.11,214.44
+"New York City, NY","Baltimore, MD",301.49,187.34
